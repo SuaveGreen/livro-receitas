@@ -1,6 +1,7 @@
-		# Livro de Receitas
+# Livro de Receitas
 
-	Olá! Bem vindo ao livro de receitas
 
-	Receitas blá blá blá
 
+Olá! seja bem vindo(a) ao meu livro de receitas!
+
+- Strognoff de Frango
