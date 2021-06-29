@@ -1,12 +1,7 @@
-# Livro de Receitas
-
-
-
-Olá! seja bem vindo(a) ao meu livro de receitas!
-
-- Strognoff de Frango
-
-O de Frango é o melhor! kkk
-
-
+		# Livro de Receitas
+	
+	Olá! Bem vindo ao livro de receitas
+	
+	ksksksksk 
+	
 

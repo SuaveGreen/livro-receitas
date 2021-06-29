@@ -1,6 +1,6 @@
 	  #Strogonoff de Frango
-	
-	##Ingredientes
+
+  	##Ingredientes
 
  - 4 colheres (sopa) de manteiga
  - 500 g de frango em tiras
@@ -17,20 +17,21 @@
 
 	  ##Modo de preparo
 
-- Em uma frigideira grande, derreta 3 colheres (sopa) de manteiga e doure o frango, aos poucos, em fogo alto.
 
-- Retire o frango e coloque a manteiga restante.
+Em uma frigideira grande, derreta 3 colheres (sopa) de manteiga e doure o frango, aos poucos, em fogo alto.
 
-- Doure a cebola, junte o frango e o MAGGI Caldo dissolvido na água.
+Retire o frango e coloque a manteiga restante.
 
-- Mexa bem e espere secar um pouco do líquido.
+Doure a cebola, junte o frango e o MAGGI Caldo dissolvido na água.
 
-- Despeje o conhaque, espere aquecer e incline levemente a frigideira para flambar o conhaque. Aguarde acabar a chama.
+Mexa bem e espere secar um pouco do líquido.
 
-- Junte os champignons, tampe a frigideira e deixe por alguns minutos.
+Despeje o conhaque, espere aquecer e incline levemente a frigideira para flambar o conhaque. Aguarde acabar a chama.
 
-- Acrescente o purê de tomate, a mostarda e o ketchup, misture bem.
+Junte os champignons, tampe a frigideira e deixe por alguns minutos.
 
-- Abaixe o fogo, deixe por cerca de 5 minutos, com a frigideira tampada.
+Acrescente o purê de tomate, a mostarda e o ketchup, misture bem.
 
-- Incorpore delicadamente o NESTLÉ Creme de Leite e sirva.
+Abaixe o fogo, deixe por cerca de 5 minutos, com a frigideira tampada.
+
+Incorpore delicadamente o NESTLÉ Creme de Leite e sirva.
