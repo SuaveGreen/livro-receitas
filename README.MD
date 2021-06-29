@@ -5,4 +5,4 @@
 	
 	- Strognoff de Frango
 	- Pavê
-	-Bolo de Cenoura
+	- Bolo de Cenoura
